@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 42d6f59f18dbbfb4fb0e013f35c6f9cd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PEShader: {fileID: 4800000, guid: d5cab1e9dc8399342939328ed125cb16, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

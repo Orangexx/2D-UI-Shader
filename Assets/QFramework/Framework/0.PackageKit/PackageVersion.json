@@ -1,0 +1,19 @@
+{
+  "Version": "v0.0.23",
+  "Type": 0,
+  "AccessRight": 0,
+  "DownloadUrl": "http://file.liangxiegame.com/0.PackageKitv0_0_23_e405e3c8_4e58_4b45_b8d8_5d567ced978d.unitypackage",
+  "InstallPath": "Assets/QFramework/Framework/0.PackageKit/",
+  "DocUrl": null,
+  "Readme": {
+    "version": "v0.0.23",
+    "content": "",
+    "author": "liangxie",
+    "date": "2019 年 08 月 20 日 19:45",
+    "VersionNumber": 23
+  },
+  "Id": "c9507469-be9f-471d-8eeb-4bf1d36409fc",
+  "Name": "0.PackageKit",
+  "VersionNumber": 23,
+  "FileName": "0.PackageKit_v0.0.23.unitypackage"
+}

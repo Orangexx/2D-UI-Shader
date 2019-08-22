@@ -1,0 +1,9 @@
+{
+    "name": "QF.IOC",
+    "references": [
+        "UniRx",
+        "QF.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}

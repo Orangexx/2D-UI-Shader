@@ -1,0 +1,19 @@
+{
+  "Version": "v0.2.1",
+  "Type": 0,
+  "AccessRight": 0,
+  "DownloadUrl": "http://file.liangxiegame.com/XiaoxiaoShaderLabv0_2_1_0b6810da_3a2a_49e1_a8d7_a5b7d5ba55f1.unitypackage",
+  "InstallPath": "Assets/XiaoxiaoShaderLab/",
+  "DocUrl": null,
+  "Readme": {
+    "version": "v0.2.1",
+    "content": "",
+    "author": "HuTao",
+    "date": "2019 年 08 月 22 日 20:16",
+    "VersionNumber": 201
+  },
+  "Id": "cf388969-a3e6-4065-a417-b140d53f9f96",
+  "Name": "XiaoxiaoShaderLab",
+  "VersionNumber": 201,
+  "FileName": "XiaoxiaoShaderLab_v0.2.1.unitypackage"
+}
